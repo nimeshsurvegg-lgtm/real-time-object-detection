@@ -1,0 +1,22 @@
+PYTHON MINI PROJECT 
+
+Real Time Object Detection System for Security System and visually Impaired Persons
+
+
+-: Problem Statement :-
+The problem is to develop an intelligent real-time object detection system that uses a webcam to identify multiple objects in its field of view and communicates the detected objects through audio output. The system should:
+
+Accurately detect and label objects using a trained deep learning model
+Display the detected objects visually with bounding boxes
+Provide voice feedback for detected objects without repetition overload
+Operate smoothly with a user-friendly interface
+Allow users to start and stop detection easily
+
+The goal is to create an assistive and interactive application that enhances accessibility and situational awareness using computer vision and speech technology.
+
+
+
+
+
+
+
