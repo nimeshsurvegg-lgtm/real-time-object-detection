@@ -50,8 +50,8 @@
 
 2. (Optional but recommended) Create a virtual environment:
  ```bash
-   git clone [https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git](https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git)
-   cd object-detection-assistant
+   python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
  ```
 
 3.Install the required dependencies:
