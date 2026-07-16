@@ -44,9 +44,10 @@
 ## 💻 Installation
 
 1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git](https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git)
-   cd object-detection-assistant
+```bash
+git clone [https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git](https://github.com/nimeshsurvegg-lgtm/object-detection-assistant.git)
+cd object-detection-assistant
+```
 
 2. (Optional but recommended) Create a virtual environment:
  ```bash
