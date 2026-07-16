@@ -81,9 +81,13 @@ GUI: tkinter, Pillow (PIL)
 
 ## 🤝 The Team
 The Object Detection Assistant was built collaboratively by a dedicated team of four developers:
+
 Nimesh Surve
+
 Sahil Pal
+
 Harsh Parab
+
 Vedant Parab
 
 ## 📜 License
