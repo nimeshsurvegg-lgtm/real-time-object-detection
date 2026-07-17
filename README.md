@@ -59,6 +59,9 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
  ```bash
 pip install -r requirements.txt
  ```
+
+---
+
 ## 🎮 Usage
 Run the main Python script to launch the application:
 
@@ -71,6 +74,8 @@ python objdetect.py
 
 3. Click Stop Camera to pause the feed, or Quit to close the application cleanly.
 
+---
+
 ## 🧠 Technical Stack
 Computer Vision: opencv-python (cv2)
 
@@ -79,6 +84,8 @@ Machine Learning: ultralytics (YOLOv8 Nano)
 Text-to-Speech: pyttsx3
 
 GUI: tkinter, Pillow (PIL)
+
+---
 
 ## 🤝 The Team
 The Object Detection Assistant was built collaboratively by a dedicated team of four developers:
@@ -90,6 +97,8 @@ Sahil Pal
 Harsh Parab
 
 Vedant Parab
+
+---
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
